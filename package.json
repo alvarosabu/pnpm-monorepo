@@ -1,5 +1,5 @@
 {
-  "name": "pnpm-monorepo",
+  "name": "@alvarosabu/pnpm-monorepo",
   "version": "1.0.0",
   "description": "PNPM workspaces test",
   "author": "Alvaro Saburido <hola@alvarosaburido.dev> (https://github.com/alvarosabu/)",
