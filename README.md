@@ -7,7 +7,7 @@
 - [Pnpm workspaces](https://pnpm.io/workspaces) 📦
 - [Changesets flow](https://github.com/changesets/changesets) for releasing 🎉
 - Automatic changelog generation with [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog)
-- Github actions for automatic versioning and publish to npm
+- Github actions for automatic versioning and publish to npm.
 
 ## You can help me keep working on this project 💚
 
