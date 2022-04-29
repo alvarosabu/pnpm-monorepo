@@ -2,7 +2,7 @@
 
 > Monorepo boilerplate using [pnpm](https://pnpm.js.org/) workspaces.
 
-## Features
+## Features
 
 - [Pnpm workspaces](https://pnpm.io/workspaces) 📦
 - [Changesets flow](https://github.com/changesets/changesets) for releasing 🎉
@@ -12,7 +12,7 @@
 ## You can help me keep working on this project 💚
 
 - [Become a Sponsor on GitHub](https://github.com/sponsors/alvarosabu)
-- [One-time donation via Github Sponsors](https://github.com/sponsors/alvarosabu?frequency=one-time&sponsor=alvarosabu
+- [One-time donation via Github Sponsors](https://github.com/sponsors/alvarosabu?frequency=one-time&sponsor=alvarosabu)
 
 <h4 align="center">Generous Unicorns 🦄</h4>
 
