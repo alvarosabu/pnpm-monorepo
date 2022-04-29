@@ -1,6 +1,6 @@
 {
   "name": "@alvarosabu/test-ui",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "Alvaro Saburido <hola@alvarosaburido.dev> (https://github.com/alvarosabu/)",
   "main": "./dist/as-ui.umd.js",
   "module": "./dist/as-ui.es.js",

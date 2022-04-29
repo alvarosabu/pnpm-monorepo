@@ -1,14 +1,14 @@
 {
   "name": "lab",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
     "preview": "vite preview"
   },
   "dependencies": {
-    "@alvarosabu/test-ui": "workspace:^1.0.0",
+    "@alvarosabu/test-ui": "workspace:^1.1.0",
     "vue": "^3.2.25"
   },
   "devDependencies": {
