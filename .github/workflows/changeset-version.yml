@@ -61,7 +61,8 @@ jobs:
           commit: 'chore(deploy): Release'
           title: 'chore(deploy): Release'
         env:
-          # npm publish token required for publishing. Set this in secrets
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
           # automatically available in actions
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # npm publish token required for publishing. Set this in secrets
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+
