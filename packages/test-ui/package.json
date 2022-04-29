@@ -1,0 +1,27 @@
+{
+  "name": "@alvarosabu/test-ui",
+  "version": "1.0.0",
+  "author": "Alvaro Saburido <hola@alvarosaburido.dev> (https://github.com/alvarosabu/)",
+  "main": "./dist/as-ui.umd.js",
+  "module": "./dist/as-ui.es.js",
+  "types": "./dist/index.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --emitDeclarationOnly && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "sass": "^1.51.0",
+    "vue": "^3.2.25"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.1",
+    "pathe": "^0.2.0",
+    "typescript": "^4.5.4",
+    "vite": "^2.9.5",
+    "vue-tsc": "^0.34.7"
+  }
+}
